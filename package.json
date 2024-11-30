@@ -2,7 +2,7 @@
   "name": "my-personal-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://abdulcube.github.io/abdulrahman-me",
+  "homepage": "https://abdulcube.github.io/Abdulrahman-me",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
