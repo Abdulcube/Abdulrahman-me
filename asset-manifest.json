@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Abdulrahman-me/static/css/main.d3c8e855.css",
-    "main.js": "/Abdulrahman-me/static/js/main.c589e967.js",
-    "static/js/453.570719ff.chunk.js": "/Abdulrahman-me/static/js/453.570719ff.chunk.js",
-    "static/media/AT&T.png": "/Abdulrahman-me/static/media/AT&T.3a0877439f513b8f9a19.png",
-    "index.html": "/Abdulrahman-me/index.html",
-    "main.d3c8e855.css.map": "/Abdulrahman-me/static/css/main.d3c8e855.css.map",
-    "main.c589e967.js.map": "/Abdulrahman-me/static/js/main.c589e967.js.map",
-    "453.570719ff.chunk.js.map": "/Abdulrahman-me/static/js/453.570719ff.chunk.js.map"
+    "main.css": "/static/css/main.d3c8e855.css",
+    "main.js": "/static/js/main.bef56430.js",
+    "static/js/453.570719ff.chunk.js": "/static/js/453.570719ff.chunk.js",
+    "index.html": "/index.html",
+    "main.d3c8e855.css.map": "/static/css/main.d3c8e855.css.map",
+    "main.bef56430.js.map": "/static/js/main.bef56430.js.map",
+    "453.570719ff.chunk.js.map": "/static/js/453.570719ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3c8e855.css",
-    "static/js/main.c589e967.js"
+    "static/js/main.bef56430.js"
   ]
 }
